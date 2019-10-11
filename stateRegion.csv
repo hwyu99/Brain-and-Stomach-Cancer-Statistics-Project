@@ -1,0 +1,52 @@
+state,region,StateAb
+Alabama,S,AL
+Alaska,W,AK
+Arizona,W,AZ
+Arkansas,S,AR
+California,W,CA
+Colorado,W,CO
+Connecticut,NE,CT
+Delaware,S,DE
+Florida,S,FL
+Georgia,S,GA
+Hawaii,W,HI
+Idaho,W,ID
+Illinois,MW,IL
+Indiana,MW,IN
+Iowa,MW,IA
+Kansas,MW,KS
+Kentucky,S,KY
+Louisiana,S,LA
+Maine,NE,ME
+Maryland,S,MD
+Massachusetts,NE,MA
+Michigan,MW,MI
+Minnesota,MW,MN
+Mississippi,S,MS
+Missouri,MW,MO
+Montana,W,MT
+Nebraska,MW,NE
+Nevada,W,NV
+New Hampshire,NE,NH
+New Jersey,NE,NJ
+New Mexico,W,NM
+New York,NE,NY
+North Carolina,S,NC
+North Dakota,MW,ND
+Ohio,MW,OH
+Oklahoma,S,OK
+Oregon,W,OR
+Pennsylvania,NE,PA
+Rhode Island,NE,RI
+South Carolina,S,SC
+South Dakota,MW,SD
+Tennessee,S,TN
+Texas,S,TX
+Utah,W,UT
+Vermont,NE,VT
+Virginia,S,VA
+Washington,W,WA
+Washington D.C.,S,DC
+West Virginia,S,WV
+Wisconsin,MW,WI
+Wyoming,W,WY
